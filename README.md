@@ -23,6 +23,7 @@ The Support group can be reached out to at [ＹＵｉ ◈ Sᴜᴘᴘᴏʀᴛ](ht
 
 
 # Note:
+Please Now Don't Fork & Testing This Repo ✨
 
 Heroku Deploy & Self Host Deploy Coming Soon On /Apr15.2021
 Any other questions to Join  [ＹＵｉ ◈ Sᴜᴘᴘᴏʀᴛ](https://t.me/Yui_Official)
